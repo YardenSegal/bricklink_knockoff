@@ -1,6 +1,6 @@
 <?php
 	require "header.php"; //simple header
-	require 'includes/dbh.inc.php'; //create database connection
+	require 'dbh.inc.php'; //create database connection
 ?>
 
 	<main>
